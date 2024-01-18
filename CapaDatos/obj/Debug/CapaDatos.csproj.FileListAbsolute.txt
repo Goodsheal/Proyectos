@@ -1,0 +1,30 @@
+C:\Users\wilfr\source\repos\ApptPedido\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\source\repos\ApptPedido\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\source\repos\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\wilfr\source\repos\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\ApptPedido\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\wilfr\source\repos\ApptPedido\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaDatos\obj\Debug\CapaDatos.pdb

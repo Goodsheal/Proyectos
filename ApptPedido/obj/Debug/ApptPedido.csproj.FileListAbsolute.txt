@@ -1,0 +1,304 @@
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.AssemblyReference.cache
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedidos.FmrCategoria.resources
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Properties.Resources.resources
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.GenerateResource.cache
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe.config
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\ApptPedido.pdb
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.dll
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CopyComplete
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.exe
+C:\Users\wilfr\source\repos\ApptPedido\ApptPedido\obj\Debug\ApptPedido.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe.config
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.AssemblyReference.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.SuggestedBindingRedirects.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedidos.FmrCategoria.resources
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPresentacion.resources
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Properties.Resources.resources
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.GenerateResource.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CoreCompileInputs.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CopyComplete
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.exe
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrClientes.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe.config
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedidos.FmrCategoria.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrClientes.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPresentacion.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Properties.Resources.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.GenerateResource.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CopyComplete
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.exe
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrProveedor.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrTrabajador.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.AssemblyReference.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.SuggestedBindingRedirects.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrArticulo.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedidos.FmrCategoria.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrClientes.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPresentacion.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrProveedor.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrTrabajador.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaCategoria_Articulo.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Properties.Resources.resources
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.GenerateResource.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CoreCompileInputs.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.exe
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe.config
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CopyComplete
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe.config
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrArticulo.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedidos.FmrCategoria.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrClientes.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrIngreso.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPresentacion.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrProveedor.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrTrabajador.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaCategoria_Articulo.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaArticulo_Ingreso.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaProveedor_Ingreso.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Properties.Resources.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.GenerateResource.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CopyComplete
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.exe
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVenta.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaArticulo_Venta.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaCliente_Venta.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrLogin.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPrincipal.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Consultas.FmrConsultaStock_Articulo.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrStockArticulo.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\EnvDTE.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrReporteArticulo.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrFacturaCategoria.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteClientes.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReportePresentacion.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteProveedor.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteTrabajadores.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteIngreso.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteDetalleIngreso.resources
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrFactura.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe.config
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.exe
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ApptPedido.pdb
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\EnvDTE.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\stdole.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaNegocio.pdb
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.AssemblyReference.cache
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.SuggestedBindingRedirects.cache
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Consultas.FmrConsultaStock_Articulo.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrArticulo.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedidos.FmrCategoria.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrClientes.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrIngreso.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrLogin.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPresentacion.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrPrincipal.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrProveedor.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrTrabajador.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVenta.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaArticulo_Venta.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaCategoria_Articulo.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaArticulo_Ingreso.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaCliente_Venta.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrVistaProveedor_Ingreso.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Properties.Resources.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrFactura.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrFacturaCategoria.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrReporteArticulo.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteClientes.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteDetalleIngreso.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteIngreso.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReportePresentacion.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteProveedor.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.Reportes.FmrReporteTrabajadores.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.FmrStockArticulo.resources
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.GenerateResource.cache
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CoreCompileInputs.cache
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.csproj.CopyComplete
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.exe
+C:\Users\SCPC520\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\ApptPedido\obj\Debug\ApptPedido.pdb

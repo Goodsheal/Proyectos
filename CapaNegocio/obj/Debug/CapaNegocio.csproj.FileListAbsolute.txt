@@ -1,0 +1,45 @@
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\wilfr\source\repos\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\SCPC720\Downloads\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\SCPC720\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\wilfr\OneDrive\Downloads\ApptPedido (1)\ApptPedido\ApptPedido\ApptPedido\CapaNegocio\obj\Debug\CapaNegocio.pdb

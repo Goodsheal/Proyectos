@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ECBDA2A7-AD8F-43A6-A9D9-61A06A683671}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ApptPedido</RootNamespace>
+    <AssemblyName>ApptPedido</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas\FmrConsultaStock_Articulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\FmrConsultaStock_Articulo.Designer.cs">
+      <DependentUpon>FmrConsultaStock_Articulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsPrincipal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPrincipal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FmrArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrArticulo.Designer.cs">
+      <DependentUpon>FmrArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrCategoria.Designer.cs">
+      <DependentUpon>FmrCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrClientes.Designer.cs">
+      <DependentUpon>FmrClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrIngreso.Designer.cs">
+      <DependentUpon>FmrIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrLogin.Designer.cs">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrPresentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPresentacion.Designer.cs">
+      <DependentUpon>FmrPresentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPrincipal.Designer.cs">
+      <DependentUpon>FmrPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrProveedor.Designer.cs">
+      <DependentUpon>FmrProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrTrabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrTrabajador.Designer.cs">
+      <DependentUpon>FmrTrabajador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVenta.Designer.cs">
+      <DependentUpon>FmrVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVistaArticulo_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVistaArticulo_Venta.Designer.cs">
+      <DependentUpon>FmrVistaArticulo_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVistaCategoria_Articulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVistaCategoria_Articulo.Designer.cs">
+      <DependentUpon>FmrVistaCategoria_Articulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVistaArticulo_Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVistaArticulo_Ingreso.Designer.cs">
+      <DependentUpon>FmrVistaArticulo_Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVistaProveedor_Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVistaProveedor_Ingreso.Designer.cs">
+      <DependentUpon>FmrVistaProveedor_Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrVistaCliente_Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrVistaCliente_Venta.Designer.cs">
+      <DependentUpon>FmrVistaCliente_Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\FmrFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrFactura.Designer.cs">
+      <DependentUpon>FmrFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrFacturaCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrFacturaCategoria.Designer.cs">
+      <DependentUpon>FmrFacturaCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteArticulo.Designer.cs">
+      <DependentUpon>FmrReporteArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteClientes.Designer.cs">
+      <DependentUpon>FmrReporteClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteDetalleIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteDetalleIngreso.Designer.cs">
+      <DependentUpon>FmrReporteDetalleIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteIngreso.Designer.cs">
+      <DependentUpon>FmrReporteIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReportePresentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReportePresentacion.Designer.cs">
+      <DependentUpon>FmrReportePresentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteProveedor.Designer.cs">
+      <DependentUpon>FmrReporteProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteTrabajadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrReporteTrabajadores.Designer.cs">
+      <DependentUpon>FmrReporteTrabajadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FmrStockArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FmrStockArticulo.Designer.cs">
+      <DependentUpon>FmrStockArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Consultas\FmrConsultaStock_Articulo.resx">
+      <DependentUpon>FmrConsultaStock_Articulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrArticulo.resx">
+      <DependentUpon>FmrArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrCategoria.resx">
+      <DependentUpon>FmrCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrClientes.resx">
+      <DependentUpon>FmrClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrIngreso.resx">
+      <DependentUpon>FmrIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrLogin.resx">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrPresentacion.resx">
+      <DependentUpon>FmrPresentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrPrincipal.resx">
+      <DependentUpon>FmrPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrProveedor.resx">
+      <DependentUpon>FmrProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrTrabajador.resx">
+      <DependentUpon>FmrTrabajador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVenta.resx">
+      <DependentUpon>FmrVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVistaArticulo_Venta.resx">
+      <DependentUpon>FmrVistaArticulo_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVistaCategoria_Articulo.resx">
+      <DependentUpon>FmrVistaCategoria_Articulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVistaArticulo_Ingreso.resx">
+      <DependentUpon>FmrVistaArticulo_Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVistaCliente_Venta.resx">
+      <DependentUpon>FmrVistaCliente_Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrVistaProveedor_Ingreso.resx">
+      <DependentUpon>FmrVistaProveedor_Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reportes\FmrFactura.resx">
+      <DependentUpon>FmrFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrFacturaCategoria.resx">
+      <DependentUpon>FmrFacturaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReporteArticulo.resx">
+      <DependentUpon>FmrReporteArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReporteClientes.resx">
+      <DependentUpon>FmrReporteClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReporteDetalleIngreso.resx">
+      <DependentUpon>FmrReporteDetalleIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReporteIngreso.resx">
+      <DependentUpon>FmrReporteIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReportePresentacion.resx">
+      <DependentUpon>FmrReportePresentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReporteProveedor.resx">
+      <DependentUpon>FmrReporteProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrReporteTrabajadores.resx">
+      <DependentUpon>FmrReporteTrabajadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FmrStockArticulo.resx">
+      <DependentUpon>FmrStockArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptArticulos.rdlc" />
+    <EmbeddedResource Include="Reportes\RptCategoria.rdlc" />
+    <EmbeddedResource Include="Reportes\RptClientes.rdlc" />
+    <EmbeddedResource Include="Reportes\RptDetalle Ingreso.rdlc" />
+    <EmbeddedResource Include="Reportes\RptIngreso.rdlc" />
+    <EmbeddedResource Include="Reportes\RptPresentacion.rdlc" />
+    <EmbeddedResource Include="Reportes\RptProveedor.rdlc" />
+    <EmbeddedResource Include="Reportes\RptStock_Articulos.rdlc" />
+    <EmbeddedResource Include="Reportes\RptTrabajadores.rdlc" />
+    <EmbeddedResource Include="Reportes\RtpFactura.rdlc" />
+    <None Include="dsPrincipal.xsc">
+      <DependentUpon>dsPrincipal.xsd</DependentUpon>
+    </None>
+    <None Include="dsPrincipal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPrincipal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsPrincipal.xss">
+      <DependentUpon>dsPrincipal.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{9670556b-5668-49e1-87df-ceb454b3dc3e}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\files.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
